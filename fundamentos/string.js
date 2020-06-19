@@ -26,3 +26,7 @@ console.log('palavra ' + 'concatenada ' + variavel.concat(' teste'));
 
 // Substitui caracteres da string conforme parâmetros
 console.log(variavel.replace('e', '&'));
+
+
+//
+console.log(('nome1,nome2,nome3,nome4').split(','));
